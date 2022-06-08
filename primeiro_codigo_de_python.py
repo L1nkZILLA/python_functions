@@ -49,7 +49,7 @@ print("--------------------------------------------")
 print("------------------ Listas ------------------")
 
 #Lista de números 
-minha_lista = [2, 1, 6, 3, 80, 12342266]
+minha_lista = [2, 1, 6, 3, 80, 12312266]
 print("conteudo da minha lista")
 print(minha_lista)
 
