@@ -6,7 +6,7 @@
 <a href="#About">About</a>
 <a href="#Tecnology">Tecnology</a>
 <a href="#Requirements">Requirements</a>
-<a href="#Althors">Authors</a>
+<a href="#Authors">Authors</a>
 </p> 
 
 <br>
