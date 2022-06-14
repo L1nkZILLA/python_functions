@@ -3,10 +3,10 @@
 <br>
 
 <p align="center">
-<a href="#sobre">Sobre</a>
-<a href="#tecnologias">Tecnologias</a>
-<a href="#pré-requisitos">Pré-requisitos</a>
-<a href="#autores">Autores</a>
+<a href="#about">About</a>
+<a href="#tecnology">Tecnology</a>
+<a href="#requirements">Requirements</a>
+<a href="#althors">Authors</a>
 </p> 
 
 <br>
@@ -14,50 +14,50 @@
 ---
 
 <h4 align="center">
-  🚧  Projeto README 🚀 Em construção ...  🚧
+  🚧  Project README 🚀 In progress ...  🚧
 </h4>
 
 ---
 
 <br>
 
-# Sobre
+# About
 
 <br>
 
-<p align="center">Fiz esse projeto em conjunto com os meus professores para mostrar grande parte das funcionabilidades do Pynthon Como:</p>
+<p align="center">I did this project together with my teachers to show several part of the codes of Pynthon like:</p>
 
 <br>
 
-- Declaração de variaveis e operações matematicas
+- Declaration of variables and mathematical operations.
 
-- Strings 
+- Strings. 
 
-- Manipular lista de palavras e números 
+- Manipulate list of words and numbers. 
 
-- If e else
+- If e else.
 
-- For loop
+- For loop.
 
-* Funções
+* Functions.
 
-- Algorítimos e ordenação bubble sort 
+- Algorithms and ordination bubble sort.
 
-- Leitura e escrita de arquivos 
+- Reading and writing files. 
 
-- Debugar
-
-<br>
-
-# Tecnologias
+- Debug.
 
 <br>
 
-<p align="center">Esse projeto utiliza apenas a linguagem de Python, e funções do mesmo.
+# Tecnology
 
 <br>
 
-# Pré-requisitos
+<p align="center">This project uses only the Python language, and functions of it.
+
+<br>
+
+# Requirements
 
 <br>
 
@@ -65,8 +65,12 @@
 
 <br>
 
-# Autores
+# Authors
 
+<br>
+ 
+ <p align="center">This project was completed by Guilherme and guided by Jose Pedro and Simone Perazzoli.
+  
 <br>  
   
 <p dir="auto">
