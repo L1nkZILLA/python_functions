@@ -69,4 +69,4 @@
 
 <p dir="auto">
   <a href="https://www.linkedin.com/in/guilherme-henrique-09aa271b3/" rel="nofollow">
-<img src="https://user-images.githubusercontent.com/102703306/173641264-3b44f064-897b-4fe3-9149-5992d5e9ffa3.png" width="93" height="20" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-Guigui5840-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/guilherme-henrique-09aa271b3/" style="max-width: 100%;"
+<img src="https://user-images.githubusercontent.com/102703306/173641264-3b44f064-897b-4fe3-9149-5992d5e9ffa3.png" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-Guigui5840-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/guilherme-henrique-09aa271b3/" style="max-width: 100% width="93" height="20">>;"
