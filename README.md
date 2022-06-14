@@ -3,10 +3,10 @@
 <br>
 
 <p align="center">
-<a href="#about">About</a>
-<a href="#tecnology">Tecnology</a>
-<a href="#requirements">Requirements</a>
-<a href="#althors">Authors</a>
+<a href="#About">About</a>
+<a href="#Tecnology">Tecnology</a>
+<a href="#Requirements">Requirements</a>
+<a href="#Althors">Authors</a>
 </p> 
 
 <br>
