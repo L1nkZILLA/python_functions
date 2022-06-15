@@ -35,7 +35,7 @@
 
 - Manipulate list of words and numbers. 
 
-- If e else.
+- Conditionals if/else.
 
 - For loop.
 
