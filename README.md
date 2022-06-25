@@ -13,12 +13,6 @@
 
 ---
 
-<h4 align="center">
-  🚧  Project README 🚀 In progress ...  🚧
-</h4>
-
----
-
 <br>
 
 # About
